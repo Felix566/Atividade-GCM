@@ -4,3 +4,4 @@ A atividade é será criar um repositório,e esse repositório deverá conter as segu
 * Ter ao menos quatro commits com alterações nos arquivos do repositório;
 * Ter ao menos duas branches com pelo menos um commit em cada;
 * Ter ao menos uma tag com uma versão no formato de versionamento semântico (exemplo: v1.0.0);
+ *Essa atividade deverá ser enviada no classroom no prazo de até quarta-feira.
